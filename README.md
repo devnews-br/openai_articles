@@ -1,2 +1,2 @@
-# openai_articles
-OpenAI Articles
+# OpenAI Articles
+## Compilation of the most popular and useful articles
